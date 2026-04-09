@@ -3,6 +3,8 @@ const Animal = require("./Animal.js");
 const Bird = require("./Bird.js");
 const Mammal = require("./Mammal.js");
 
+console.log(typeof Zoo);
+
 console.log(Zoo);
 
 const myZoo = new Zoo("The JS Terminal Zoo");
