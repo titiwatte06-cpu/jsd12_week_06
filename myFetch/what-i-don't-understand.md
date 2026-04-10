@@ -1,0 +1,1 @@
+ <!-- I don't understand how to apply fetch and promise in real-world use case -->
